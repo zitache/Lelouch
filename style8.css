@@ -1,0 +1,125 @@
+/* Styles pour la barre de navigation */
+nav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #333;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff9900;
+}
+
+/* Styles pour les images */
+figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 12px;
+    color: #777;
+}
+
+/* Styles pour le contenu général */
+h1, h2, h3 {
+    color: black;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* Styles pour le pied de page */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Styles pour la barre de navigation */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff9900;
+}
+
+/* Styles pour les images */
+figure {
+    margin: 20px 0;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 12px;
+    color: #777;
+}
+
+/* Styles pour le contenu général */
+h1, h2, h3 {
+    color: black;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* Styles pour le pied de page */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+   
+    position: inherit;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
